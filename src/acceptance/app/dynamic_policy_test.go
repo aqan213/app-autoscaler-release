@@ -260,7 +260,7 @@ var _ = Describe("AutoScaler dynamic policy", func() {
 		Context("when throughput is less than scaling in threshold", func() {
 
 			BeforeEach(func() {
-				policy = GenerateDynamicScaleInPolicy(cfg, 1, 2, "throughput", 1)
+				policy = GenerateDynamicScaleInPolicy(cfg, 1, 2, "throughput", 2)
 				initialInstanceCount = 2
 			})
 
