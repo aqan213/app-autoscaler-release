@@ -1,10 +1,10 @@
-#golang/go1.13.linux-amd64.tar.gz:
-#  size: 120050424
-#  object_id: bcb0a27b-78fc-4545-4786-8498dd07be62
-#  sha: sha256:68a2297eb099d1a76097905a2ce334e3155004ec08cdea85f24527be3c48e856
-golang/go1.15.1.linux-amd64.tar.gz:
-  size: 121150330
-  sha: sha256:70ac0dbf60a8ee9236f337ed0daa7a4c3b98f6186d4497826f68e97c0c0413f6
+golang/go1.13.linux-amd64.tar.gz:
+  size: 120050424
+  object_id: bcb0a27b-78fc-4545-4786-8498dd07be62
+  sha: sha256:68a2297eb099d1a76097905a2ce334e3155004ec08cdea85f24527be3c48e856
+#golang/go1.15.1.linux-amd64.tar.gz:
+#  size: 121150330
+#  sha: sha256:70ac0dbf60a8ee9236f337ed0daa7a4c3b98f6186d4497826f68e97c0c0413f6
 maven/apache-maven-3.5.4-bin.tar.gz:
   size: 8842660
   object_id: b5e0cf3e-032e-4fdf-64f8-f0519281a3a1
