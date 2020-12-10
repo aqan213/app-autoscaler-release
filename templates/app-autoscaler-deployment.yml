@@ -5,7 +5,7 @@ name: app-autoscaler
 # Release Details
 releases:
 - name: app-autoscaler
-  version: 0+dev.10 
+  version: 0+dev.11 
 - name: "postgres"
   version: "25"
   url: "https://bosh.io/d/github.com/cloudfoundry/postgres-release?v=25"
