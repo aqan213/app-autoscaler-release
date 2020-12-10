@@ -40,7 +40,7 @@ files:
 - app-autoscaler/src/github.com/gorilla/mux/* # gosub
 - app-autoscaler/src/github.com/jmoiron/sqlx/* # gosub
 - app-autoscaler/src/github.com/jmoiron/sqlx/reflectx/* # gosub
-- app-autoscaler/src/github.com/juju/ratelimit/* # gosub
+#- app-autoscaler/src/github.com/juju/ratelimit/* # gosub
 - app-autoscaler/src/github.com/lib/pq/* # gosub
 - app-autoscaler/src/github.com/lib/pq/oid/* # gosub
 - app-autoscaler/src/github.com/lib/pq/scram/* # gosub
@@ -75,6 +75,7 @@ files:
 - app-autoscaler/src/golang.org/x/text/transform/* # gosub
 - app-autoscaler/src/golang.org/x/text/unicode/bidi/* # gosub
 - app-autoscaler/src/golang.org/x/text/unicode/norm/* # gosub
+- app-autoscaler/src/golang.org/x/time/rate/* #gosub
 - app-autoscaler/src/google.golang.org/genproto/googleapis/rpc/status/* # gosub
 - app-autoscaler/src/google.golang.org/grpc/* # gosub
 - app-autoscaler/src/google.golang.org/grpc/balancer/* # gosub
